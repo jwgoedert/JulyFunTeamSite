@@ -1,4 +1,7 @@
 .greeting {
     color:coral;
 }
-
+#explanation-section{
+    font-size: 3rem;
+    font-style: italic;
+}
